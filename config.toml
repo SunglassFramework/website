@@ -1,0 +1,4 @@
+baseURL = "http://sunglassframework.github.io/"
+languageCode = "en-us"
+title = "Sunglass framework"
+theme = "beautifulhugo"
